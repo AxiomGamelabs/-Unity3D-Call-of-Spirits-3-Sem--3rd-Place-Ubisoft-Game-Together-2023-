@@ -16,3 +16,4 @@ Itch Page: https://s4g.itch.io/call-of-spirits
 
 #### How to open this project
 - Open the "Scripts" folder to see the code.
+- You can download a win build of the game from the Itch Page.
