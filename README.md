@@ -10,6 +10,7 @@ Itch Page: https://s4g.itch.io/call-of-spirits
 #### Roles
 - Engineer
 - Producer
+- Co-Designer
 
 #### Engine / Languages
 - Unity, C#
