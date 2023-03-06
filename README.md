@@ -9,7 +9,7 @@ Itch Page: https://s4g.itch.io/call-of-spirits
 
 #### Roles
 - Engineer
-- Producer
+- Producer (Scrum Master & Product Owner)
 - Co-Designer
 
 #### Engine / Languages
